@@ -1,0 +1,25 @@
+git dan github bisa dipakai secara terpisah
+
+GIT = bisa melakukan version control system (vcs)= revision control system atau source code management merupakan sistem yang mengelola perubahan dari sebuah dokumen,
+perogram komputer, website dan kumpulan informasi lain.
+Kegunaan:
+(sebuah sistem yang menyimpan rekaman dari sebuah history/perubahaan dari source code kita)
+(bekerja kolaborasi lebih baik
+(mengetahui siapa yang melakukan dan kapan terjadi perubahan)
+(memungkinkan kita kembali ke keadaan sebelum perubahan/(checkout))
+
+-repository/repo = folder
+-commit = riwayat perubahan (save dalam git)
+	  1 COMMIT = 1 REKAMANSNAPSHOOT
+-branch = cabang dari file asli (commit)
+-merge = proses penggabungan 2 branch (branch cabang tadi dipakai untuk project selanjutnya
+-hash = angka random penanda pada sebuah commit
+-remot = sumber yang memiliki repo
+-clone = mengambil repo dari remote
+-push = mengirimkan commit
+-pull = mengambil commit dari repo
+
+GITHUB : website untuk mengupload/membuat file yang dapat dikelola menggunakan version control tanpa instal git
+         (layanan cloud untuk menyimpan dan mengelola project/repo git). (instagram para programer)
+
+
